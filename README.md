@@ -7,7 +7,7 @@
 ### Übung 2: Importiere die benötigten Module in einem Python Skript und erstelle die Authentifizierung
 [Lösung](./2.md)
 
-### Übung 3: Erstelle eine Lister aller Rack Server mit Modell und eindeutiger Intersight ID (MOID)
+### Übung 3: Erstelle eine Lister aller Rack Server mit Modell, Seriennummer und eindeutiger Intersight ID (MOID)
 [Lösung](./3.md)
 
 ### Übung 4: Erstelle eine Liste aller Fehlermeldungen die 'critical' oder 'major' sind
