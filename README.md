@@ -22,7 +22,9 @@ Lösung
 ### Übung 7: Erstelle eine NTP policy und füge sie dem Serverprofil hinzu
 Lösung
 
-### Übung 8: Erstelle einen workflow in Intersight Orchestrator der die VM '/Datacenter/vm/mimaurer/_Templates/CentOS_8' klont.
+### Übung 8: Erstelle einen workflow in Intersight Orchestrator der eine VM klont
+Template VM: /Datacenter/vm/mimaurer/_Templates/CentOS_8
+
 vCenter: vielab-vcenter.cisco.com VMware
 
 Datacenter: Datacenter
