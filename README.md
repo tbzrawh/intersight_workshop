@@ -1,7 +1,7 @@
 # Intersight Workshop
 
 
-### Übung 1: Erselle einen API Key in Intersight
+### Übung 1: Erstelle einen API Key in Intersight
 [Lösung](./1.md)
 
 ### Übung 2: Importiere die benötigten Module in einem Python Skript und erstelle die Authentifizierung
